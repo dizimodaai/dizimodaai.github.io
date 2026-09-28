@@ -8,38 +8,40 @@
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
-    background: #0b0b0c;
-    color: #f5f1e8;
+    background: #0b0b0c; color: #f5f1e8;
     font-family: Georgia, 'Times New Roman', serif;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 48px 20px 40px;
+    min-height: 100vh; display: flex; flex-direction: column;
+    align-items: center; padding: 48px 20px 40px;
   }
-  .cerceve {
-    position: fixed; inset: 14px;
-    border: 1px solid #c9a22766; pointer-events: none;
-  }
-  .amblem {
-    width: 110px; height: 110px; border-radius: 50%;
-    border: 2px solid #c9a227; object-fit: cover;
-    margin-bottom: 18px;
-  }
-  h1 { font-size: 30px; letter-spacing: 3px; color: #c9a227; font-weight: normal; }
+  .cerceve { position: fixed; inset: 14px; border: 1px solid #c9a22766; pointer-events: none; }
+  .amblem { width: 110px; height: 110px; border-radius: 50%; border: 2px solid #c9a227;
+            object-fit: cover; margin-bottom: 18px; }
+  h1 { font-size: 30px; letter-spacing: 3px; color: #c9a227; font-weight: normal; text-align: center; }
   .alt { font-style: italic; color: #b9b3a4; margin: 10px 0 4px; font-size: 15px; text-align: center; }
-  .cizgi { width: 120px; height: 1px; background: #c9a227; margin: 18px auto 26px; }
-  .butonlar { width: 100%; max-width: 420px; display: flex; flex-direction: column; gap: 14px; }
+  .cizgi { width: 120px; height: 1px; background: #c9a227; margin: 20px auto; }
   a.btn {
-    display: block; text-decoration: none; text-align: center;
+    display: block; width: 100%; max-width: 420px; text-decoration: none; text-align: center;
     padding: 16px 20px; font-size: 17px; letter-spacing: 0.5px;
     border: 1px solid #c9a227; color: #f5f1e8; background: #131315;
-    transition: background 0.2s, transform 0.1s;
+    transition: background 0.2s, transform 0.1s; margin: 0 auto 14px;
   }
   a.btn:hover { background: #1d1d20; transform: translateY(-1px); }
-  a.btn span.etiket { display: block; font-size: 12px; color: #c9a227; margin-bottom: 3px; font-style: italic; }
-  .yakinda { opacity: 0.45; cursor: default; pointer-events: none; }
-  footer { margin-top: 34px; font-size: 12.5px; color: #8d8778; text-align: center; line-height: 1.7; font-style: italic; }
+  a.btn span { display: block; font-size: 12px; color: #c9a227; margin-bottom: 3px; font-style: italic; }
+  .bolum { width: 100%; max-width: 560px; margin: 34px auto 16px; text-align: center; }
+  .bolum .baslik { font-size: 14px; letter-spacing: 4px; color: #c9a227; }
+  .bolum .cizgi-kisa { width: 60px; height: 1px; background: #c9a22799; margin: 12px auto 0; }
+  .galeri { display: flex; gap: 10px; width: 100%; max-width: 560px; margin-bottom: 22px; }
+  .galeri img { width: 33.33%; aspect-ratio: 3/4; object-fit: cover; object-position: top;
+                border: 1px solid #c9a22755; }
+  .kartlar { width: 100%; max-width: 560px; display: flex; flex-direction: column; gap: 12px; }
+  .kart { border: 1px solid #c9a22744; background: #121214; padding: 18px 22px; display: flex;
+          justify-content: space-between; align-items: center; }
+  .kart .isim { font-size: 18px; color: #f5f1e8; }
+  .kart .isim small { display: block; font-size: 12.5px; color: #b9b3a4; font-style: italic; margin-top: 4px; }
+  .kart .durum { font-size: 11px; letter-spacing: 2px; color: #c9a227; border: 1px solid #c9a22766;
+                 padding: 5px 10px; white-space: nowrap; }
+  footer { margin-top: 36px; font-size: 12.5px; color: #8d8778; text-align: center;
+           line-height: 1.7; font-style: italic; }
 </style>
 </head>
 <body>
@@ -50,25 +52,40 @@
 <p class="alt">Dizilerin ikonik tarzları · AI ile yeniden yorumlandı</p>
 <div class="cizgi"></div>
 
-<div class="butonlar">
-  <a class="btn" href="https://instagram.com/dizi.moda.ai" target="_blank">
-    <span class="etiket">bizi takip et</span>
-    Instagram — günlük kombinler
-  </a>
-  <!-- Urun linkleri CPA onayi geldikten sonra buraya eklenecek. Ornek:
-  <a class="btn" href="AFFILIATE_LINK" target="_blank">
-    <span class="etiket">baron'un secimi</span>
-    Kaşmir Palto — kombinin yıldızı
-  </a>
-  -->
-  <a class="btn yakinda">🎒 Baron'un Seçkisi — yakında</a>
-  <a class="btn yakinda">🌆 Sokak Kralı kombinleri — yakında</a>
-  <a class="btn yakinda">✨ It-Girl gece kombinleri — yakında</a>
+<a class="btn" href="https://instagram.com/dizi.moda.ai" target="_blank">
+  <span>bizi takip et</span>
+  Instagram — her akşam yeni kombin
+</a>
+
+<div class="bolum">
+  <div class="baslik">KOMBİN REHBERLERİ</div>
+  <div class="cizgi-kisa"></div>
+</div>
+
+<div class="galeri">
+  <img src="baron.jpg" alt="Baba">
+  <img src="sokak.jpg" alt="Mahalle Kralı">
+  <img src="itgirl.jpg" alt="Sosyetik">
+</div>
+
+<div class="kartlar">
+  <div class="kart">
+    <div class="isim">BABA<small>Gece sahibi — kaşmir palto kombinleri</small></div>
+    <div class="durum">YAKINDA</div>
+  </div>
+  <div class="kart">
+    <div class="isim">MAHALLE KRALI<small>Mahalle duruşu — deri mont kombinleri</small></div>
+    <div class="durum">YAKINDA</div>
+  </div>
+  <div class="kart">
+    <div class="isim">SOSYETİK<small>Gala gecesi — yeşil saten elbise kombinleri</small></div>
+    <div class="durum">YAKINDA</div>
+  </div>
 </div>
 
 <footer>
   Tüm karakter görselleri yapay zeka ile üretilmiştir · Kişiler ve markalarla bağı yoktur<br>
-  Ürün sorularının cevabı satıcı sayfasındadır · © dizi.moda.ai
+  Ürün detaylarının cevabı satıcı sayfasındadır · © dizi.moda.ai
 </footer>
 </body>
 </html>
