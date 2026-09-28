@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dizimodaai.github.io/sitemap.xml
