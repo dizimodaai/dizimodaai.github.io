@@ -146,7 +146,7 @@
     if (g.youtube)   linkler += '<a href="' + g.youtube + '" target="_blank" rel="noopener">YouTube</a>';
     if (g.facebook)  linkler += '<a href="' + g.facebook + '" target="_blank" rel="noopener">Facebook</a>';
     return '<div class="gonderi">' +
-      '<div class="g-baslik"><span class="g-ad">' + g.gosterim_adi + '</span>' +
+      '<div class="g-baslik">' +
       '<span class="g-bilgi">' + (g.tur === "video" ? "VİDEO" : "FOTO") + ' · ' + tarihTR(g.tarih) + '</span></div>' +
       (g.instagram ? igBlok(g.instagram) : (g.youtube ? ytEmbed(g.youtube) : "")) +
       '<div class="g-linkler">' + linkler + '</div>' +
