@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dizi.ModA.ai — Dizilerin İkonik Tarzları</title>
-<meta name="description" content="Dizilerin ikonik tarzları, AI ile yeniden yorumlandı. Kombini tamamlayan parçalar burada.">
+<meta name="description" content="Dizilerin ikonik tarzları, AI ile yeniden yorumlandı. Stil kartları, kombinler ve son paylaşımlar.">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body {
@@ -80,8 +80,8 @@
   YouTube — kombin videoları
 </a>
 
-<div class="bolum">
-  <div class="baslik">KOMBİN REHBERLERİ</div>
+<div class="bolum" id="kartlar-bolum">
+  <div class="baslik">STİL KARTLARI</div>
   <div class="cizgi-kisa"></div>
 </div>
 
@@ -91,20 +91,7 @@
   <img src="itgirl.jpg" alt="Sosyetik">
 </div>
 
-<div class="kartlar">
-  <div class="kart">
-    <div class="isim">BABA<small>Gece sahibi — kaşmir palto kombinleri</small></div>
-    <div class="durum">YAKINDA</div>
-  </div>
-  <div class="kart">
-    <div class="isim">MAHALLE KRALI<small>Mahalle duruşu — deri mont kombinleri</small></div>
-    <div class="durum">YAKINDA</div>
-  </div>
-  <div class="kart">
-    <div class="isim">SOSYETİK<small>Gala gecesi — yeşil saten elbise kombinleri</small></div>
-    <div class="durum">YAKINDA</div>
-  </div>
-</div>
+<div class="kartlar" id="kartlar"></div>
 
 <div class="bolum" id="akis-bolum">
   <div class="baslik">SON PAYLAŞIMLAR</div>
@@ -152,6 +139,18 @@
       '<div class="g-linkler">' + linkler + '</div>' +
       '<div class="g-ai">🤖 yapay zeka ile üretildi</div></div>';
   }
+  fetch("kartlar.json")
+    .then(function (r) { return r.json(); })
+    .then(function (d) {
+      var el = document.getElementById("kartlar");
+      if (!d.kartlar || !d.kartlar.length) { el.style.display = "none"; return; }
+      el.innerHTML = d.kartlar.map(function (k) {
+        return '<div class="kart">' +
+          '<div class="isim">' + k.ad + '<small>' + k.dna + '</small></div>' +
+          '<div class="durum">' + k.etiket + '</div></div>';
+      }).join("");
+    })
+    .catch(function () { document.getElementById("kartlar").style.display = "none"; });
   fetch("gonderiler.json")
     .then(function (r) { return r.json(); })
     .then(function (d) {
