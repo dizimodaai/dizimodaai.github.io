@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-10-01 19:40",
+  "guncelleme": "2026-10-02 08:08",
   "kartlar": [
     {
       "ad": "İMPARATOR",
@@ -80,6 +80,21 @@
       "ad": "REİS",
       "dna": "üç parça takım elbise · klasik deri ayakkabı · klasik kol saati",
       "etiket": "#ReisStili"
+    },
+    {
+      "ad": "ATEŞ",
+      "dna": "siyah deri gömlek · bordo kalem etek · siyah topuklu bot",
+      "etiket": "#AteşStili"
+    },
+    {
+      "ad": "KAR",
+      "dna": "krem kaşmir palto · beyaz balıkçı yaka kazak · fildişi bol pantolon",
+      "etiket": "#KarStili"
+    },
+    {
+      "ad": "TERZİ",
+      "dna": "krem keten gömlek · ekose kalem etek · kahverengi oxford ayakkabı",
+      "etiket": "#TerziStili"
     }
   ]
 }
