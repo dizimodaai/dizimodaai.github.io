@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-10-02 08:08",
+  "guncelleme": "2026-10-02 08:18",
   "kartlar": [
     {
       "ad": "İMPARATOR",
@@ -35,6 +35,11 @@
       "ad": "GÖLGE",
       "dna": "siyah blazer ceket · siyah slim pantolon · siyah bot",
       "etiket": "#GölgeStili"
+    },
+    {
+      "ad": "HANIMEFENDİ",
+      "dna": "pas saten bluz · pileli yün etek · inci küpe",
+      "etiket": "#HanımefendiStili"
     },
     {
       "ad": "PATRON",
@@ -95,6 +100,11 @@
       "ad": "TERZİ",
       "dna": "krem keten gömlek · ekose kalem etek · kahverengi oxford ayakkabı",
       "etiket": "#TerziStili"
+    },
+    {
+      "ad": "SULTAN",
+      "dna": "ipek kaftan elbise · altın işlemeli terlik · zümrüt takı seti",
+      "etiket": "#SultanStili"
     }
   ]
 }
