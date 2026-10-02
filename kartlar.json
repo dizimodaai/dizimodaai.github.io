@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-10-02 08:18",
+  "guncelleme": "2026-10-02 08:21",
   "kartlar": [
     {
       "ad": "İMPARATOR",
@@ -105,6 +105,16 @@
       "ad": "SULTAN",
       "dna": "ipek kaftan elbise · altın işlemeli terlik · zümrüt takı seti",
       "etiket": "#SultanStili"
+    },
+    {
+      "ad": "ÖĞRETMEN",
+      "dna": "hardal hırka · zeytin yeşili pileli etek · deri loafer",
+      "etiket": "#ÖğretmenStili"
+    },
+    {
+      "ad": "CEO",
+      "dna": "antrasit takım blazer · geniş paça takım pantolon · siyah stiletto",
+      "etiket": "#CEOStili"
     }
   ]
 }
