@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-10-23 22:44",
+  "guncelleme": "2026-10-24 09:37",
   "kartlar": [
     {
       "ad": "İMPARATOR",
@@ -120,6 +120,166 @@
       "ad": "GÖZDE",
       "dna": "krem triko polo yaka bluz · pas rengi geniş paça pantolon · beyaz deri spor ayakkabı",
       "etiket": "#GözdeStili"
+    },
+    {
+      "ad": "SAVCI",
+      "dna": "lacivert çizgili takım elbise · ipek gömlek beyaz · siyah topuklu ayakkabı",
+      "etiket": "#SavcıStili"
+    },
+    {
+      "ad": "CERRAH",
+      "dna": "medical önlük · zeytin yeşili trençkot · yuvarlak yakalı triko",
+      "etiket": "#DoktorŞıklığı"
+    },
+    {
+      "ad": "GAZETECİ",
+      "dna": "field ceket · çizgili gömlek · siyah deri ceket",
+      "etiket": "#GazeteciStili"
+    },
+    {
+      "ad": "SPİKER",
+      "dna": "krem blazer · saten bluz · zümrüt elbise",
+      "etiket": "#SpikerStili"
+    },
+    {
+      "ad": "PSİKOLOG",
+      "dna": "triko hırka · wrap elbise · kadife bluz",
+      "etiket": "#PsikologStili"
+    },
+    {
+      "ad": "ŞARKICI",
+      "dna": "payetli mini elbise · oversize kot ceket · western bot",
+      "etiket": "#ŞarkıcıStili"
+    },
+    {
+      "ad": "BALERİN",
+      "dna": "balerin wrap etek · saten midi etek · balen flat ayakkabı",
+      "etiket": "#BalerinŞıklığı"
+    },
+    {
+      "ad": "ŞEF",
+      "dna": "chef ceket · houndstooth pantolon · mutfak önlüğü",
+      "etiket": "#ŞefAşçı"
+    },
+    {
+      "ad": "MİMAR",
+      "dna": "utility ceket · siyah boğazlı kazak · bej geniş paça pantolon",
+      "etiket": "#MimarStili"
+    },
+    {
+      "ad": "ARKEOLOG",
+      "dna": "keten gömlek · cargo pantolon · geniş kenarlı şapka",
+      "etiket": "#ArkeologStili"
+    },
+    {
+      "ad": "PİLOT",
+      "dna": "siyah üniforma ceket · beyaz gömlek · siyah trençkot",
+      "etiket": "#PilotStili"
+    },
+    {
+      "ad": "OTELCİ",
+      "dna": "inci gri takım · keten elbise · kadife abiye elbise",
+      "etiket": "#OtelŞıklığı"
+    },
+    {
+      "ad": "ÇİÇEKÇİ",
+      "dna": "dantel elbise · kot midi etek · hasır çanta",
+      "etiket": "#ÇiçekçiStili"
+    },
+    {
+      "ad": "ANTİKACI",
+      "dna": "kadife blazer · ipek fular · brokar yelek",
+      "etiket": "#AntikacıStili"
+    },
+    {
+      "ad": "JOKEY",
+      "dna": "binici pantolonu · quilted yelek · uzun binici botu",
+      "etiket": "#JokeyStili"
+    },
+    {
+      "ad": "DÖVÜŞÇÜ",
+      "dna": "boks eldiveni · oversize hoodie · compression tayt",
+      "etiket": "#DövüşçüKadın"
+    },
+    {
+      "ad": "TENİSÇİ",
+      "dna": "tenis elbisesi · beyaz spor ayakkabı · polo tişört",
+      "etiket": "#TenisStili"
+    },
+    {
+      "ad": "GELİN",
+      "dna": "gelin duvağı · kına elbisesi · fildişi takım elbise",
+      "etiket": "#GelinStili"
+    },
+    {
+      "ad": "FALCI",
+      "dna": "kaftan · etnik uzun etek · püsküllü şal",
+      "etiket": "#FalçıStili"
+    },
+    {
+      "ad": "MODEL",
+      "dna": "blazer elbise · oversize beyaz gömlek · slip elbise",
+      "etiket": "#ModelStili"
+    },
+    {
+      "ad": "RESSAM",
+      "dna": "keten elbise · kadife kordela gömlek · atölye önlüğü",
+      "etiket": "#RessamStili"
+    },
+    {
+      "ad": "ÖĞRENCİ",
+      "dna": "oversize hoodie · mom jean · canvas sırt çantası",
+      "etiket": "#ÖğrenciStili"
+    },
+    {
+      "ad": "FOTOĞRAFÇI",
+      "dna": "utility yelek · chambray gömlek · kargo pantolon",
+      "etiket": "#FotoğrafçıStili"
+    },
+    {
+      "ad": "KEMANCI",
+      "dna": "kadife abiye elbise · pudra mavisi elbise · farmers bluz",
+      "etiket": "#KemancıStili"
+    },
+    {
+      "ad": "HÂKİM",
+      "dna": "siyah uzun kaban · gri takım · patent topuklu",
+      "etiket": "#HâkimStili"
+    },
+    {
+      "ad": "HEMŞİRE",
+      "dna": "nursing terlik · scrubs takım · beyaz spor ayakkabı",
+      "etiket": "#HemşireStili"
+    },
+    {
+      "ad": "MÜHENDİS",
+      "dna": "beyaz laboratuvar montu · kordela gömlek · kargo pantolon siyah",
+      "etiket": "#MühendisStili"
+    },
+    {
+      "ad": "FENOMEN",
+      "dna": "crop cardigan · yüksek bel geniş paça jean · şeffaf topuklu sandalet",
+      "etiket": "#FenomenStili"
+    },
+    {
+      "ad": "REJİSÖR",
+      "dna": "siyah field ceket · utility pantolon · kahverengi iş botu",
+      "etiket": "#RejisörStili"
+    },
+    {
+      "ad": "KUAFÖR",
+      "dna": "siyah deri önlük · siyah dar jean · platform ayakkabı",
+      "etiket": "#KuaförStili"
+    },
+    {
+      "ad": "VETERİNER",
+      "dna": "sage yeşil scrub · rahat klinik terliği · kaşmir hırka",
+      "etiket": "#VeterinerStili"
+    },
+    {
+      "ad": "PASTACI",
+      "dna": "pastacı önlüğü · culotte pantolon · beyaz mutfak ayakkabısı",
+      "etiket": "#PastacıStili"
     }
   ]
 }
