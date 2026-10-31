@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Dizi.ModA.ai — Dizilerin İkonik Tarzları</title>
-<meta name="description" content="Dizilerin ikonik tarzları, AI ile yeniden yorumlandı. Stil kartları, kombinler ve son paylaşımlar.">
+<meta name="description" content="Dizilerin ikonik tarzları, AI ile yeniden yorumlandı. Son paylaşımlar kare galeride, stil kartları resimleriyle kendi sayfasında.">
 <meta name="google-site-verification" content="CqaiGjzWfRBunBvJqAQmAnxclcmL3ai0lUjE1yqb8_E">
 <meta name="p:domain_verify" content="92b58e68d94e7959461e90c807032e57"/>
 <style>
@@ -32,31 +32,29 @@
   .bolum { width: 100%; max-width: 560px; margin: 34px auto 16px; text-align: center; }
   .bolum .baslik { font-size: 14px; letter-spacing: 4px; color: #c9a227; }
   .bolum .cizgi-kisa { width: 60px; height: 1px; background: #c9a22799; margin: 12px auto 0; }
-  .galeri { display: flex; gap: 10px; width: 100%; max-width: 560px; margin-bottom: 22px; }
+  .bolum .not { font-size: 12.5px; color: #8d8778; font-style: italic; margin-top: 10px; }
+  .bolum .not a { color: #c9a227; text-decoration: none; border-bottom: 1px solid #c9a22766; }
+  .galeri { display: flex; gap: 10px; width: 100%; max-width: 560px; margin-bottom: 8px; }
   .galeri img { width: 33.33%; aspect-ratio: 3/4; object-fit: cover; object-position: top;
                 border: 1px solid #c9a22755; }
-  .kartlar { width: 100%; max-width: 560px; display: flex; flex-direction: column; gap: 12px; }
-  .kart { border: 1px solid #c9a22744; background: #121214; padding: 18px 22px; display: flex;
-          justify-content: space-between; align-items: center; }
-  .kart .isim { font-size: 18px; color: #f5f1e8; }
-  .kart .isim small { display: block; font-size: 12.5px; color: #b9b3a4; font-style: italic; margin-top: 4px; }
-  .kart .durum { font-size: 11px; letter-spacing: 2px; color: #c9a227; border: 1px solid #c9a22766;
-                 padding: 5px 10px; white-space: nowrap; }
-  .akis { width: 100%; max-width: 560px; display: flex; flex-direction: column; gap: 22px;
-          margin-bottom: 26px; }
-  .gonderi { border: 1px solid #c9a22744; background: #121214; padding: 16px; }
-  .g-baslik { display: flex; justify-content: space-between; align-items: baseline;
-              margin-bottom: 12px; gap: 10px; }
-  .g-ad { font-size: 17px; letter-spacing: 2px; color: #c9a227; }
-  .g-bilgi { font-size: 11.5px; color: #b9b3a4; font-style: italic; letter-spacing: 1px;
-             white-space: nowrap; }
-  .gonderi blockquote.instagram-media { max-width: 100% !important; margin: 0 auto !important; }
-  .g-embed-yt { width: 100%; aspect-ratio: 9/16; border: 0; display: block; background: #0b0b0c; }
-  .g-linkler { display: flex; gap: 18px; justify-content: center; margin-top: 14px; flex-wrap: wrap; }
-  .g-linkler a { color: #c9a227; font-size: 13px; letter-spacing: 1px; text-decoration: none;
-                 border-bottom: 1px solid #c9a22766; padding-bottom: 2px; }
-  .g-linkler a:hover { border-bottom-color: #c9a227; }
-  .g-ai { margin-top: 10px; font-size: 11px; color: #8d8778; font-style: italic; text-align: center; }
+  .izgara { width: 100%; max-width: 820px; display: grid;
+            grid-template-columns: repeat(3, 1fr); gap: 6px; margin-bottom: 26px; }
+  .kare { position: relative; display: block; aspect-ratio: 1/1; overflow: hidden;
+          border: 1px solid #c9a22733; background: #121214; }
+  .kare img { width: 100%; height: 100%; object-fit: cover; object-position: top;
+              display: block; transition: transform 0.25s ease; }
+  .kare:hover img { transform: scale(1.06); }
+  .kare .rozet { position: absolute; top: 8px; right: 8px; font-size: 10px; letter-spacing: 1px;
+                 color: #f5f1e8; background: rgba(11,11,12,0.72); border: 1px solid #c9a22766;
+                 padding: 3px 7px; }
+  .kare .bilgi { position: absolute; left: 0; right: 0; bottom: 0; padding: 22px 9px 7px;
+                 background: linear-gradient(transparent, rgba(0,0,0,0.82));
+                 font-size: 11px; color: #e8e2d2; letter-spacing: 1px;
+                 opacity: 0; transition: opacity 0.2s; white-space: nowrap;
+                 overflow: hidden; text-overflow: ellipsis; }
+  .kare:hover .bilgi { opacity: 1; }
+  .kare.yedek { display: flex; align-items: center; justify-content: center;
+                color: #8d8778; font-size: 12px; font-style: italic; text-align: center; }
   footer { margin-top: 36px; font-size: 12.5px; color: #8d8778; text-align: center;
            line-height: 1.7; font-style: italic; }
 </style>
@@ -81,26 +79,18 @@
   <span>shorts</span>
   YouTube — kombin videoları
 </a>
-
-<div class="bolum" id="kartlar-bolum">
-  <div class="baslik">STİL KARTLARI</div>
-  <div class="cizgi-kisa"></div>
-</div>
-
-<div class="galeri">
-  <img src="baron.jpg" alt="Baba">
-  <img src="sokak.jpg" alt="Mahalle Kralı">
-  <img src="itgirl.jpg" alt="Sosyetik">
-</div>
-
-<div class="kartlar" id="kartlar"></div>
+<a class="btn" href="kartlar.html">
+  <span>tüm karakterler</span>
+  Stil Kartları — resimleriyle tüm kombinler
+</a>
 
 <div class="bolum" id="akis-bolum">
   <div class="baslik">SON PAYLAŞIMLAR</div>
   <div class="cizgi-kisa"></div>
+  <div class="not">kareye dokun, paylaşıma git · <a href="kartlar.html">stil kartlarını gör →</a></div>
 </div>
 
-<div class="akis" id="akis"></div>
+<div class="izgara" id="akis"></div>
 
 <footer>
   Tüm karakter görselleri yapay zeka ile üretilmiştir · Kişiler ve markalarla bağı yoktur<br>
@@ -116,43 +106,21 @@
     var p = t.split("-");
     return parseInt(p[2], 10) + " " + AYLAR[parseInt(p[1], 10) - 1] + " " + p[0];
   }
-  function igBlok(link) {
-    return '<blockquote class="instagram-media" data-instgrm-permalink="' + link +
-      '" data-instgrm-version="14" style="background:#FFF;border:0;margin:0 auto;' +
-      'max-width:540px;padding:0;width:100%;">' +
-      '<a href="' + link + '" target="_blank" rel="noopener">Instagram\'da görüntüle</a></blockquote>';
+  function ilkLink(g) {
+    return g.instagram || g.tiktok || g.youtube || g.facebook || "";
   }
-  function ytEmbed(link) {
-    var m = link.match(/(?:v=|youtu\.be\/|shorts\/)([\w-]{6,})/);
-    if (!m) return "";
-    return '<iframe class="g-embed-yt" src="https://www.youtube.com/embed/' + m[1] +
-      '" loading="lazy" allowfullscreen></iframe>';
+  function kare(g) {
+    var link = ilkLink(g);
+    var etiket = (g.tur === "video" ? "VİDEO" : "FOTO") + " · " + tarihTR(g.tarih);
+    var ad = g.kart || "AI stil görseli";
+    var icerik = g.resim
+      ? '<img src="' + g.resim + '" alt="' + ad + ' — yapay zeka ile üretilmiş stil görseli" loading="lazy">'
+      : '<span>' + ad + '</span>';
+    return '<a class="kare' + (g.resim ? '' : ' yedek') + '" href="' + link + '" target="_blank" rel="noopener">' +
+      icerik +
+      (g.tur === "video" ? '<span class="rozet">▶ VİDEO</span>' : '') +
+      '<span class="bilgi">' + etiket + '</span></a>';
   }
-  function kart(g) {
-    var linkler = "";
-    if (g.instagram) linkler += '<a href="' + g.instagram + '" target="_blank" rel="noopener">Instagram</a>';
-    if (g.tiktok)    linkler += '<a href="' + g.tiktok + '" target="_blank" rel="noopener">TikTok</a>';
-    if (g.youtube)   linkler += '<a href="' + g.youtube + '" target="_blank" rel="noopener">YouTube</a>';
-    if (g.facebook)  linkler += '<a href="' + g.facebook + '" target="_blank" rel="noopener">Facebook</a>';
-    return '<div class="gonderi">' +
-      '<div class="g-baslik">' +
-      '<span class="g-bilgi">' + (g.tur === "video" ? "VİDEO" : "FOTO") + ' · ' + tarihTR(g.tarih) + '</span></div>' +
-      (g.instagram ? igBlok(g.instagram) : (g.youtube ? ytEmbed(g.youtube) : "")) +
-      '<div class="g-linkler">' + linkler + '</div>' +
-      '<div class="g-ai">🤖 yapay zeka ile üretildi</div></div>';
-  }
-  fetch("kartlar.json")
-    .then(function (r) { return r.json(); })
-    .then(function (d) {
-      var el = document.getElementById("kartlar");
-      if (!d.kartlar || !d.kartlar.length) { el.style.display = "none"; return; }
-      el.innerHTML = d.kartlar.map(function (k) {
-        return '<div class="kart">' +
-          '<div class="isim">' + k.ad + '<small>' + k.dna + '</small></div>' +
-          '<div class="durum">' + k.etiket + '</div></div>';
-      }).join("");
-    })
-    .catch(function () { document.getElementById("kartlar").style.display = "none"; });
   fetch("gonderiler.json")
     .then(function (r) { return r.json(); })
     .then(function (d) {
@@ -161,7 +129,7 @@
       if (!d.gonderiler || !d.gonderiler.length) {
         akis.style.display = "none"; bolum.style.display = "none"; return;
       }
-      akis.innerHTML = d.gonderiler.map(kart).join("");
+      akis.innerHTML = d.gonderiler.map(kare).join("");
     })
     .catch(function () {
       document.getElementById("akis").style.display = "none";
@@ -169,6 +137,5 @@
     });
 })();
 </script>
-<script async src="https://www.instagram.com/embed.js"></script>
 </body>
 </html>
