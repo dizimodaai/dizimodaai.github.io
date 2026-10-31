@@ -1,285 +1,397 @@
 {
-  "guncelleme": "2026-10-30 21:25",
+  "guncelleme": "2026-10-31 06:10",
   "kartlar": [
     {
+      "id": "mafya_drami_erkek",
       "ad": "İMPARATOR",
       "dna": "uzun siyah deri palto · slim fit siyah pantolon · siyah klasik bot",
-      "etiket": "#İmparatorStili"
+      "etiket": "#İmparatorStili",
+      "resim": "k/kart_mafya_drami_erkek.jpg"
     },
     {
+      "id": "intikam_dramasi_erkek",
       "ad": "İNTİKAM",
       "dna": "kahverengi deri ceket · koyu renk düz pantolon · kahverengi bot",
-      "etiket": "#İntikamStili"
+      "etiket": "#İntikamStili",
+      "resim": "k/kart_intikam_dramasi_erkek.jpg"
     },
     {
+      "id": "sokak_krali",
       "ad": "MAHALLE KRALI",
       "dna": "siyah deri mont · gri kapüşonlu sweatshirt · siyah eşofman altı",
-      "etiket": "#MahalleKralı"
+      "etiket": "#MahalleKralı",
+      "resim": "k/kart_sokak_krali.jpg"
     },
     {
+      "id": "yorgun_dedektif",
       "ad": "KOMİSER",
       "dna": "bej trençkot · klasik gömlek · koyu pantolon",
-      "etiket": "#KomiserStili"
+      "etiket": "#KomiserStili",
+      "resim": "k/kart_yorgun_dedektif.jpg"
     },
     {
+      "id": "soygun_planicisi",
       "ad": "USTA",
       "dna": "antrasit takım elbise · siyah oxford ayakkabı · deri eldiven",
-      "etiket": "#UstaŞıklığı"
+      "etiket": "#UstaŞıklığı",
+      "resim": "k/kart_soygun_planicisi.jpg"
     },
     {
+      "id": "romantik_komedi_kadin",
       "ad": "KIR ÇİÇEĞİ",
       "dna": "bej trençkot · beyaz gömlek · mavi skinny jean",
-      "etiket": "#KırÇiçeğiStili"
+      "etiket": "#KırÇiçeğiStili",
+      "resim": "k/kart_romantik_komedi_kadin.jpg"
     },
     {
+      "id": "modern_aksiyon_kadin",
       "ad": "GÖLGE",
       "dna": "siyah blazer ceket · siyah slim pantolon · siyah bot",
-      "etiket": "#GölgeStili"
+      "etiket": "#GölgeStili",
+      "resim": "k/kart_modern_aksiyon_kadin.jpg"
     },
     {
+      "id": "donem_dizisi_kadin",
       "ad": "HANIMEFENDİ",
       "dna": "pas saten bluz · pileli yün etek · inci küpe",
-      "etiket": "#HanımefendiStili"
+      "etiket": "#HanımefendiStili",
+      "resim": "k/kart_donem_dizisi_kadin.jpg"
     },
     {
+      "id": "isadami_gizemli",
       "ad": "PATRON",
       "dna": "deve tüyü yün palto · lacivert takım elbise · deri evrak çantası",
-      "etiket": "#PatronStili"
+      "etiket": "#PatronStili",
+      "resim": "k/kart_isadami_gizemli.jpg"
     },
     {
+      "id": "lux_playboy",
       "ad": "ZÜPPE",
       "dna": "bordo saten gömlek · siyah blazer ceket · siyah loafer ayakkabı",
-      "etiket": "#ZüppeŞıklığı"
+      "etiket": "#ZüppeŞıklığı",
+      "resim": "k/kart_lux_playboy.jpg"
     },
     {
+      "id": "genclik_avukat",
       "ad": "AVUKAT",
       "dna": "camel blazer ceket · beyaz gömlek · siyah klasik pantolon",
-      "etiket": "#AvukatStili"
+      "etiket": "#AvukatStili",
+      "resim": "k/kart_genclik_avukat.jpg"
     },
     {
+      "id": "gizli_ajan",
       "ad": "AJAN",
       "dna": "antrasit takım elbise · siyah deri oxford · çelik saat",
-      "etiket": "#AjanStili"
+      "etiket": "#AjanStili",
+      "resim": "k/kart_gizli_ajan.jpg"
     },
     {
+      "id": "it_girl_kadin",
       "ad": "SOSYETİK",
       "dna": "yeşil saten elbise · altın topuklu sandalet · clutch çanta",
-      "etiket": "#SosyetikStil"
+      "etiket": "#SosyetikStil",
+      "resim": "k/kart_it_girl_kadin.jpg"
     },
     {
+      "id": "zengin_varis",
       "ad": "VARİS",
       "dna": "keten gömlek · bej chino pantolon · süet loafer",
-      "etiket": "#VarisŞıklığı"
+      "etiket": "#VarisŞıklığı",
+      "resim": "k/kart_zengin_varis.jpg"
     },
     {
+      "id": "anadolu_genci",
       "ad": "DELİKANLI",
       "dna": "bej triko yelek · ekose gömlek · koyu pantolon",
-      "etiket": "#DelikanlıStili"
+      "etiket": "#DelikanlıStili",
+      "resim": "k/kart_anadolu_genci.jpg"
     },
     {
+      "id": "mafya_baronu_guncel",
       "ad": "BABA",
       "dna": "kaşmir palto · siyah balıkçı yaka kazak · siyah deri eldiven",
-      "etiket": "#BabaEstetiği"
+      "etiket": "#BabaEstetiği",
+      "resim": "k/kart_mafya_baronu_guncel.jpg"
     },
     {
+      "id": "aile_reisi",
       "ad": "REİS",
       "dna": "dik yaka beyaz gömlek · koyu renk takım blazer · akik taşlı yüzük",
-      "etiket": "#ReisStili"
+      "etiket": "#ReisStili",
+      "resim": "k/kart_aile_reisi.jpg"
     },
     {
+      "id": "ates_kadin",
       "ad": "ATEŞ",
       "dna": "siyah deri gömlek · bordo kalem etek · siyah topuklu bot",
-      "etiket": "#AteşStili"
+      "etiket": "#AteşStili",
+      "resim": "k/kart_ates_kadin.jpg"
     },
     {
+      "id": "kar_kadin",
       "ad": "KAR",
       "dna": "krem kaşmir palto · beyaz balıkçı yaka kazak · fildişi bol pantolon",
-      "etiket": "#KarStili"
+      "etiket": "#KarStili",
+      "resim": "k/kart_kar_kadin.jpg"
     },
     {
+      "id": "terzi_kadin",
       "ad": "TERZİ",
       "dna": "krem keten gömlek · ekose kalem etek · kahverengi oxford ayakkabı",
-      "etiket": "#TerziStili"
+      "etiket": "#TerziStili",
+      "resim": "k/kart_terzi_kadin.jpg"
     },
     {
+      "id": "sultan_kadin",
       "ad": "SULTAN",
       "dna": "ipek kaftan elbise · altın işlemeli terlik · zümrüt takı seti",
-      "etiket": "#SultanStili"
+      "etiket": "#SultanStili",
+      "resim": "k/kart_sultan_kadin.jpg"
     },
     {
+      "id": "ogretmen_kadin",
       "ad": "ÖĞRETMEN",
       "dna": "hardal hırka · zeytin yeşili pileli etek · deri loafer",
-      "etiket": "#ÖğretmenStili"
+      "etiket": "#ÖğretmenStili",
+      "resim": "k/kart_ogretmen_kadin.jpg"
     },
     {
+      "id": "ceo_kadin",
       "ad": "CEO",
       "dna": "antrasit takım blazer · geniş paça takım pantolon · siyah stiletto",
-      "etiket": "#CEOStili"
+      "etiket": "#CEOStili",
+      "resim": "k/kart_ceo_kadin.jpg"
     },
     {
+      "id": "gozde_kadin",
       "ad": "GÖZDE",
       "dna": "krem triko polo yaka bluz · pas rengi geniş paça pantolon · beyaz deri spor ayakkabı",
-      "etiket": "#GözdeStili"
+      "etiket": "#GözdeStili",
+      "resim": "k/kart_gozde_kadin.jpg"
     },
     {
+      "id": "savci_kadin",
       "ad": "SAVCI",
       "dna": "lacivert çizgili takım elbise · ipek gömlek beyaz · siyah topuklu ayakkabı",
-      "etiket": "#SavcıStili"
+      "etiket": "#SavcıStili",
+      "resim": "k/kart_savci_kadin.jpg"
     },
     {
+      "id": "cerrah_kadin",
       "ad": "CERRAH",
       "dna": "medical önlük · zeytin yeşili trençkot · yuvarlak yakalı triko",
-      "etiket": "#DoktorŞıklığı"
+      "etiket": "#DoktorŞıklığı",
+      "resim": "k/kart_cerrah_kadin.jpg"
     },
     {
+      "id": "gazeteci_kadin",
       "ad": "GAZETECİ",
       "dna": "field ceket · çizgili gömlek · siyah deri ceket",
-      "etiket": "#GazeteciStili"
+      "etiket": "#GazeteciStili",
+      "resim": "k/kart_gazeteci_kadin.jpg"
     },
     {
+      "id": "spiker_kadin",
       "ad": "SPİKER",
       "dna": "krem blazer · saten bluz · zümrüt elbise",
-      "etiket": "#SpikerStili"
+      "etiket": "#SpikerStili",
+      "resim": "k/kart_spiker_kadin.jpg"
     },
     {
+      "id": "psikolog_kadin",
       "ad": "PSİKOLOG",
       "dna": "triko hırka · wrap elbise · kadife bluz",
-      "etiket": "#PsikologStili"
+      "etiket": "#PsikologStili",
+      "resim": "k/kart_psikolog_kadin.jpg"
     },
     {
+      "id": "sarkici_kadin",
       "ad": "ŞARKICI",
       "dna": "payetli mini elbise · oversize kot ceket · western bot",
-      "etiket": "#ŞarkıcıStili"
+      "etiket": "#ŞarkıcıStili",
+      "resim": "k/kart_sarkici_kadin.jpg"
     },
     {
+      "id": "balerin_kadin",
       "ad": "BALERİN",
       "dna": "balerin wrap etek · saten midi etek · balen flat ayakkabı",
-      "etiket": "#BalerinŞıklığı"
+      "etiket": "#BalerinŞıklığı",
+      "resim": "k/kart_balerin_kadin.jpg"
     },
     {
+      "id": "sef_kadin",
       "ad": "ŞEF",
       "dna": "chef ceket · houndstooth pantolon · mutfak önlüğü",
-      "etiket": "#ŞefAşçı"
+      "etiket": "#ŞefAşçı",
+      "resim": "k/kart_sef_kadin.jpg"
     },
     {
+      "id": "mimar_kadin",
       "ad": "MİMAR",
       "dna": "utility ceket · siyah boğazlı kazak · bej geniş paça pantolon",
-      "etiket": "#MimarStili"
+      "etiket": "#MimarStili",
+      "resim": "k/kart_mimar_kadin.jpg"
     },
     {
+      "id": "arkeolog_kadin",
       "ad": "ARKEOLOG",
       "dna": "keten gömlek · cargo pantolon · geniş kenarlı şapka",
-      "etiket": "#ArkeologStili"
+      "etiket": "#ArkeologStili",
+      "resim": "k/kart_arkeolog_kadin.jpg"
     },
     {
+      "id": "pilot_kadin",
       "ad": "PİLOT",
       "dna": "siyah üniforma ceket · beyaz gömlek · siyah trençkot",
-      "etiket": "#PilotStili"
+      "etiket": "#PilotStili",
+      "resim": "k/kart_pilot_kadin.jpg"
     },
     {
+      "id": "otelci_kadin",
       "ad": "OTELCİ",
       "dna": "inci gri takım · keten elbise · kadife abiye elbise",
-      "etiket": "#OtelŞıklığı"
+      "etiket": "#OtelŞıklığı",
+      "resim": "k/kart_otelci_kadin.jpg"
     },
     {
+      "id": "cicekci_kadin",
       "ad": "ÇİÇEKÇİ",
       "dna": "dantel elbise · kot midi etek · hasır çanta",
-      "etiket": "#ÇiçekçiStili"
+      "etiket": "#ÇiçekçiStili",
+      "resim": "k/kart_cicekci_kadin.jpg"
     },
     {
+      "id": "antikaci_kadin",
       "ad": "ANTİKACI",
       "dna": "kadife blazer · ipek fular · brokar yelek",
-      "etiket": "#AntikacıStili"
+      "etiket": "#AntikacıStili",
+      "resim": "k/kart_antikaci_kadin.jpg"
     },
     {
+      "id": "jokey_kadin",
       "ad": "JOKEY",
       "dna": "binici pantolonu · quilted yelek · uzun binici botu",
-      "etiket": "#JokeyStili"
+      "etiket": "#JokeyStili",
+      "resim": "k/kart_jokey_kadin.jpg"
     },
     {
+      "id": "dovuscu_kadin",
       "ad": "DÖVÜŞÇÜ",
       "dna": "boks eldiveni · oversize hoodie · compression tayt",
-      "etiket": "#DövüşçüKadın"
+      "etiket": "#DövüşçüKadın",
+      "resim": "k/kart_dovuscu_kadin.jpg"
     },
     {
+      "id": "tenisci_kadin",
       "ad": "TENİSÇİ",
       "dna": "tenis elbisesi · beyaz spor ayakkabı · polo tişört",
-      "etiket": "#TenisStili"
+      "etiket": "#TenisStili",
+      "resim": "k/kart_tenisci_kadin.jpg"
     },
     {
+      "id": "gelin_kadin",
       "ad": "GELİN",
       "dna": "gelin duvağı · kına elbisesi · fildişi takım elbise",
-      "etiket": "#GelinStili"
+      "etiket": "#GelinStili",
+      "resim": "k/kart_gelin_kadin.jpg"
     },
     {
+      "id": "falci_kadin",
       "ad": "FALCI",
       "dna": "kaftan · etnik uzun etek · püsküllü şal",
-      "etiket": "#FalçıStili"
+      "etiket": "#FalçıStili",
+      "resim": "k/kart_falci_kadin.jpg"
     },
     {
+      "id": "model_kadin",
       "ad": "MODEL",
       "dna": "blazer elbise · oversize beyaz gömlek · slip elbise",
-      "etiket": "#ModelStili"
+      "etiket": "#ModelStili",
+      "resim": "k/kart_model_kadin.jpg"
     },
     {
+      "id": "ressam_kadin",
       "ad": "RESSAM",
       "dna": "keten elbise · kadife kordela gömlek · atölye önlüğü",
-      "etiket": "#RessamStili"
+      "etiket": "#RessamStili",
+      "resim": "k/kart_ressam_kadin.jpg"
     },
     {
+      "id": "ogrenci_kadin",
       "ad": "ÖĞRENCİ",
       "dna": "oversize hoodie · mom jean · canvas sırt çantası",
-      "etiket": "#ÖğrenciStili"
+      "etiket": "#ÖğrenciStili",
+      "resim": "k/kart_ogrenci_kadin.jpg"
     },
     {
+      "id": "fotografci_kadin",
       "ad": "FOTOĞRAFÇI",
       "dna": "utility yelek · chambray gömlek · kargo pantolon",
-      "etiket": "#FotoğrafçıStili"
+      "etiket": "#FotoğrafçıStili",
+      "resim": "k/kart_fotografci_kadin.jpg"
     },
     {
+      "id": "kemanci_kadin",
       "ad": "KEMANCI",
       "dna": "kadife abiye elbise · pudra mavisi elbise · farmers bluz",
-      "etiket": "#KemancıStili"
+      "etiket": "#KemancıStili",
+      "resim": "k/kart_kemanci_kadin.jpg"
     },
     {
+      "id": "hakim_kadin",
       "ad": "HÂKİM",
       "dna": "siyah uzun kaban · gri takım · patent topuklu",
-      "etiket": "#HâkimStili"
+      "etiket": "#HâkimStili",
+      "resim": "k/kart_hakim_kadin.jpg"
     },
     {
+      "id": "hemsire_kadin",
       "ad": "HEMŞİRE",
       "dna": "nursing terlik · scrubs takım · beyaz spor ayakkabı",
-      "etiket": "#HemşireStili"
+      "etiket": "#HemşireStili",
+      "resim": "k/kart_hemsire_kadin.jpg"
     },
     {
+      "id": "muhendis_kadin",
       "ad": "MÜHENDİS",
       "dna": "beyaz laboratuvar montu · kordela gömlek · kargo pantolon siyah",
-      "etiket": "#MühendisStili"
+      "etiket": "#MühendisStili",
+      "resim": "k/kart_muhendis_kadin.jpg"
     },
     {
+      "id": "fenomen_kadin",
       "ad": "FENOMEN",
       "dna": "crop cardigan · yüksek bel geniş paça jean · şeffaf topuklu sandalet",
-      "etiket": "#FenomenStili"
+      "etiket": "#FenomenStili",
+      "resim": "k/kart_fenomen_kadin.jpg"
     },
     {
+      "id": "rejisor_kadin",
       "ad": "REJİSÖR",
       "dna": "siyah field ceket · utility pantolon · kahverengi iş botu",
-      "etiket": "#RejisörStili"
+      "etiket": "#RejisörStili",
+      "resim": "k/kart_rejisor_kadin.jpg"
     },
     {
+      "id": "kuafor_kadin",
       "ad": "KUAFÖR",
       "dna": "siyah deri önlük · siyah dar jean · platform ayakkabı",
-      "etiket": "#KuaförStili"
+      "etiket": "#KuaförStili",
+      "resim": "k/kart_kuafor_kadin.jpg"
     },
     {
+      "id": "veteriner_kadin",
       "ad": "VETERİNER",
       "dna": "sage yeşil scrub · rahat klinik terliği · kaşmir hırka",
-      "etiket": "#VeterinerStili"
+      "etiket": "#VeterinerStili",
+      "resim": "k/kart_veteriner_kadin.jpg"
     },
     {
+      "id": "pastaci_kadin",
       "ad": "PASTACI",
       "dna": "pastacı önlüğü · culotte pantolon · beyaz mutfak ayakkabısı",
-      "etiket": "#PastacıStili"
+      "etiket": "#PastacıStili",
+      "resim": "k/kart_pastaci_kadin.jpg"
     }
   ]
 }
