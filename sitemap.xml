@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://dizimodaai.github.io/</loc>
     <changefreq>weekly</changefreq>
@@ -9,6 +9,238 @@
     <loc>https://dizimodaai.github.io/kartlar.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_mafya_drami_erkek.jpg</image:loc>
+      <image:title>İMPARATOR stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_intikam_dramasi_erkek.jpg</image:loc>
+      <image:title>İNTİKAM stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_sokak_krali.jpg</image:loc>
+      <image:title>MAHALLE KRALI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_yorgun_dedektif.jpg</image:loc>
+      <image:title>KOMİSER stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_soygun_planicisi.jpg</image:loc>
+      <image:title>USTA stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_romantik_komedi_kadin.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_modern_aksiyon_kadin.jpg</image:loc>
+      <image:title>GÖLGE stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_donem_dizisi_kadin.jpg</image:loc>
+      <image:title>HANIMEFENDİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_isadami_gizemli.jpg</image:loc>
+      <image:title>PATRON stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_lux_playboy.jpg</image:loc>
+      <image:title>ZÜPPE stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_genclik_avukat.jpg</image:loc>
+      <image:title>AVUKAT stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_gizli_ajan.jpg</image:loc>
+      <image:title>AJAN stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_it_girl_kadin.jpg</image:loc>
+      <image:title>SOSYETİK stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_zengin_varis.jpg</image:loc>
+      <image:title>VARİS stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_anadolu_genci.jpg</image:loc>
+      <image:title>DELİKANLI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_mafya_baronu_guncel.jpg</image:loc>
+      <image:title>BABA stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_aile_reisi.jpg</image:loc>
+      <image:title>REİS stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_ates_kadin.jpg</image:loc>
+      <image:title>ATEŞ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_kar_kadin.jpg</image:loc>
+      <image:title>KAR stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_terzi_kadin.jpg</image:loc>
+      <image:title>TERZİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_sultan_kadin.jpg</image:loc>
+      <image:title>SULTAN stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_ogretmen_kadin.jpg</image:loc>
+      <image:title>ÖĞRETMEN stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_ceo_kadin.jpg</image:loc>
+      <image:title>CEO stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_gozde_kadin.jpg</image:loc>
+      <image:title>GÖZDE stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_savci_kadin.jpg</image:loc>
+      <image:title>SAVCI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_cerrah_kadin.jpg</image:loc>
+      <image:title>CERRAH stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_gazeteci_kadin.jpg</image:loc>
+      <image:title>GAZETECİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_spiker_kadin.jpg</image:loc>
+      <image:title>SPİKER stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_psikolog_kadin.jpg</image:loc>
+      <image:title>PSİKOLOG stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_sarkici_kadin.jpg</image:loc>
+      <image:title>ŞARKICI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_balerin_kadin.jpg</image:loc>
+      <image:title>BALERİN stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_sef_kadin.jpg</image:loc>
+      <image:title>ŞEF stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_mimar_kadin.jpg</image:loc>
+      <image:title>MİMAR stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_arkeolog_kadin.jpg</image:loc>
+      <image:title>ARKEOLOG stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_pilot_kadin.jpg</image:loc>
+      <image:title>PİLOT stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_otelci_kadin.jpg</image:loc>
+      <image:title>OTELCİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_cicekci_kadin.jpg</image:loc>
+      <image:title>ÇİÇEKÇİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_antikaci_kadin.jpg</image:loc>
+      <image:title>ANTİKACI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_jokey_kadin.jpg</image:loc>
+      <image:title>JOKEY stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_dovuscu_kadin.jpg</image:loc>
+      <image:title>DÖVÜŞÇÜ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_tenisci_kadin.jpg</image:loc>
+      <image:title>TENİSÇİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_gelin_kadin.jpg</image:loc>
+      <image:title>GELİN stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_falci_kadin.jpg</image:loc>
+      <image:title>FALCI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_model_kadin.jpg</image:loc>
+      <image:title>MODEL stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_ressam_kadin.jpg</image:loc>
+      <image:title>RESSAM stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_ogrenci_kadin.jpg</image:loc>
+      <image:title>ÖĞRENCİ stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_fotografci_kadin.jpg</image:loc>
+      <image:title>FOTOĞRAFÇI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_kemanci_kadin.jpg</image:loc>
+      <image:title>KEMANCI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_hakim_kadin.jpg</image:loc>
+      <image:title>HÂKİM stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_hemsire_kadin.jpg</image:loc>
+      <image:title>HEMŞİRE stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_muhendis_kadin.jpg</image:loc>
+      <image:title>MÜHENDİS stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_fenomen_kadin.jpg</image:loc>
+      <image:title>FENOMEN stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_rejisor_kadin.jpg</image:loc>
+      <image:title>REJİSÖR stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_kuafor_kadin.jpg</image:loc>
+      <image:title>KUAFÖR stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_veteriner_kadin.jpg</image:loc>
+      <image:title>VETERİNER stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_pastaci_kadin.jpg</image:loc>
+      <image:title>PASTACI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_cadi_kadin.jpg</image:loc>
+      <image:title>CADI stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kart_vampir_kadin.jpg</image:loc>
+      <image:title>VAMPİR stil kartı — yapay zeka ile üretilmiş</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://dizimodaai.github.io/gizlilik.html</loc>
