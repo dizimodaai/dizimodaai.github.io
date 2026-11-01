@@ -1,5 +1,5 @@
 {
-  "guncelleme": "2026-11-01 00:55",
+  "guncelleme": "2026-11-01 14:44",
   "kartlar": [
     {
       "id": "mafya_drami_erkek",
@@ -392,6 +392,20 @@
       "dna": "pastacı önlüğü · culotte pantolon · beyaz mutfak ayakkabısı",
       "etiket": "#PastacıStili",
       "resim": "k/kart_pastaci_kadin.jpg"
+    },
+    {
+      "id": "cadi_kadin",
+      "ad": "CADI",
+      "dna": "siyah kadife elbise · cadı şapkası · siyah topuklu bot",
+      "etiket": "#CadıStili",
+      "resim": "k/kart_cadi_kadin.jpg"
+    },
+    {
+      "id": "vampir_kadin",
+      "ad": "VAMPİR",
+      "dna": "bordo kadife elbise · siyah pelerin · dantel choker",
+      "etiket": "#VampirŞıklığı",
+      "resim": "k/kart_vampir_kadin.jpg"
     }
   ]
 }
