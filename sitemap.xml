@@ -4,6 +4,590 @@
     <loc>https://dizimodaai.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/cadi_kadin_586033.jpg</image:loc>
+      <image:title>CADI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/vampir_kadin_997058.jpg</image:loc>
+      <image:title>VAMPİR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_cadi_kadin_586033.jpg</image:loc>
+      <image:title>CADI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_vampir_kadin_997058.jpg</image:loc>
+      <image:title>VAMPİR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_cicekci_kadin_82656.jpg</image:loc>
+      <image:title>ÇİÇEKÇİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/veteriner_kadin_187396.jpg</image:loc>
+      <image:title>VETERİNER — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_dovuscu_kadin_130008.jpg</image:loc>
+      <image:title>DÖVÜŞÇÜ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/antikaci_kadin_177311.jpg</image:loc>
+      <image:title>ANTİKACI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_isadami_gizemli_297130.jpg</image:loc>
+      <image:title>PATRON — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_579454.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/rejisor_kadin_197535.jpg</image:loc>
+      <image:title>REJİSÖR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_tenisci_kadin_14647.jpg</image:loc>
+      <image:title>TENİSÇİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_sarkici_kadin_202750.jpg</image:loc>
+      <image:title>ŞARKICI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ogrenci_kadin_231381.jpg</image:loc>
+      <image:title>ÖĞRENCİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_kemanci_kadin_63995.jpg</image:loc>
+      <image:title>KEMANCI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/hemsire_kadin_135526.jpg</image:loc>
+      <image:title>HEMŞİRE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_gelin_kadin_398100.jpg</image:loc>
+      <image:title>GELİN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/balerin_kadin_328798.jpg</image:loc>
+      <image:title>BALERİN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ressam_kadin_6176.jpg</image:loc>
+      <image:title>RESSAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/arkeolog_kadin_119557.jpg</image:loc>
+      <image:title>ARKEOLOG — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_fotografci_kadin_308746.jpg</image:loc>
+      <image:title>FOTOĞRAFÇI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/psikolog_kadin_397803.jpg</image:loc>
+      <image:title>PSİKOLOG — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/otelci_kadin_76514.jpg</image:loc>
+      <image:title>OTELCİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_mimar_kadin_180350.jpg</image:loc>
+      <image:title>MİMAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_kuafor_kadin_256802.jpg</image:loc>
+      <image:title>KUAFÖR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/gazeteci_kadin_243483.jpg</image:loc>
+      <image:title>GAZETECİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_model_kadin_32712.jpg</image:loc>
+      <image:title>MODEL — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sef_kadin_87888.jpg</image:loc>
+      <image:title>ŞEF — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_fenomen_kadin_353998.jpg</image:loc>
+      <image:title>FENOMEN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/hakim_kadin_209814.jpg</image:loc>
+      <image:title>HÂKİM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_spiker_kadin_34786.jpg</image:loc>
+      <image:title>SPİKER — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/muhendis_kadin_40843.jpg</image:loc>
+      <image:title>MÜHENDİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_cerrah_kadin_295261.jpg</image:loc>
+      <image:title>CERRAH — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/savci_kadin_232525.jpg</image:loc>
+      <image:title>SAVCI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_zengin_varis_267669.jpg</image:loc>
+      <image:title>VARİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/aile_reisi_497733.jpg</image:loc>
+      <image:title>REİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_yorgun_dedektif_232247.jpg</image:loc>
+      <image:title>KOMİSER — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/intikam_dramasi_erkek_352467.jpg</image:loc>
+      <image:title>İNTİKAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ogretmen_kadin_497588.jpg</image:loc>
+      <image:title>ÖĞRETMEN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/gizli_ajan_405528.jpg</image:loc>
+      <image:title>AJAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_soygun_planicisi_222559.jpg</image:loc>
+      <image:title>USTA — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/isadami_gizemli_497130.jpg</image:loc>
+      <image:title>PATRON — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_romantik_komedi_kadin_40890.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/mafya_baronu_guncel_102024.jpg</image:loc>
+      <image:title>BABA — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_modern_aksiyon_kadin_96531.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/donem_dizisi_kadin_286586.jpg</image:loc>
+      <image:title>HANIMEFENDİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_terzi_kadin_189295.jpg</image:loc>
+      <image:title>TERZİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kar_kadin_257643.jpg</image:loc>
+      <image:title>KAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_genclik_avukat_62430.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/terzi_kadin_289295.jpg</image:loc>
+      <image:title>TERZİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_sultan_kadin_409339.jpg</image:loc>
+      <image:title>SULTAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ceo_kadin_208839.jpg</image:loc>
+      <image:title>CEO — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ates_kadin_167891.jpg</image:loc>
+      <image:title>ATEŞ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_279454.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_kar_kadin_157643.jpg</image:loc>
+      <image:title>KAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sokak_krali_243591.jpg</image:loc>
+      <image:title>MAHALLE KRALI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ceo_kadin_408839.jpg</image:loc>
+      <image:title>CEO — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/mafya_drami_erkek_184806.jpg</image:loc>
+      <image:title>İMPARATOR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_donem_dizisi_kadin_186586.jpg</image:loc>
+      <image:title>HANIMEFENDİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ates_kadin_267891.jpg</image:loc>
+      <image:title>ATEŞ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_mafya_drami_erkek_84806.jpg</image:loc>
+      <image:title>İMPARATOR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/lux_playboy_128601.jpg</image:loc>
+      <image:title>ZÜPPE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_intikam_dramasi_erkek_52467.jpg</image:loc>
+      <image:title>İNTİKAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/modern_aksiyon_kadin_196531.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_it_girl_kadin_179454.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/anadolu_genci_291924.jpg</image:loc>
+      <image:title>DELİKANLI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_gizli_ajan_105528.jpg</image:loc>
+      <image:title>AJAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/gizli_ajan_205528.jpg</image:loc>
+      <image:title>AJAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_anadolu_genci_191924.jpg</image:loc>
+      <image:title>DELİKANLI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/genclik_avukat_162430.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_modern_aksiyon_kadin_496531.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sultan_kadin_309339.jpg</image:loc>
+      <image:title>SULTAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_gozde_kadin_267641.jpg</image:loc>
+      <image:title>GÖZDE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/zengin_varis_167669.jpg</image:loc>
+      <image:title>VARİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_romantik_komedi_kadin_440890.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/donem_dizisi_kadin_386586.jpg</image:loc>
+      <image:title>HANIMEFENDİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_genclik_avukat_362430.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/intikam_dramasi_erkek_20374.jpg</image:loc>
+      <image:title>İNTİKAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ates_kadin_367891.jpg</image:loc>
+      <image:title>ATEŞ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ogretmen_kadin_397588.jpg</image:loc>
+      <image:title>ÖĞRETMEN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_terzi_kadin_389295.jpg</image:loc>
+      <image:title>TERZİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/mafya_baronu_guncel_97040.jpg</image:loc>
+      <image:title>BABA — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_sultan_kadin_9339.jpg</image:loc>
+      <image:title>SULTAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kar_kadin_357643.jpg</image:loc>
+      <image:title>KAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ceo_kadin_308839.jpg</image:loc>
+      <image:title>CEO — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/terzi_kadin_389295.jpg</image:loc>
+      <image:title>TERZİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_kar_kadin_57643.jpg</image:loc>
+      <image:title>KAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_379454.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/modern_aksiyon_kadin_55069.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_mafya_drami_erkek_99154.jpg</image:loc>
+      <image:title>İMPARATOR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/mafya_drami_erkek_58639.jpg</image:loc>
+      <image:title>İMPARATOR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_donem_dizisi_kadin_86586.jpg</image:loc>
+      <image:title>HANIMEFENDİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_modern_aksiyon_kadin_56158.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/genclik_avukat_81377.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_it_girl_kadin_79454.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sultan_kadin_9339.jpg</image:loc>
+      <image:title>SULTAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_genclik_avukat_81377.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/romantik_komedi_kadin_6540.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_intikam_dramasi_erkek_32149.jpg</image:loc>
+      <image:title>İNTİKAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ceo_kadin_8839.jpg</image:loc>
+      <image:title>CEO — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_sokak_krali_43591.jpg</image:loc>
+      <image:title>MAHALLE KRALI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/yorgun_dedektif_32247.jpg</image:loc>
+      <image:title>KOMİSER — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_romantik_komedi_kadin_29849.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/donem_dizisi_kadin_86586.jpg</image:loc>
+      <image:title>HANIMEFENDİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_lux_playboy_28601.jpg</image:loc>
+      <image:title>ZÜPPE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sokak_krali_43591.jpg</image:loc>
+      <image:title>MAHALLE KRALI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_isadami_gizemli_97130.jpg</image:loc>
+      <image:title>PATRON — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ates_kadin_67891.jpg</image:loc>
+      <image:title>ATEŞ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ates_kadin_67891_v2.jpg</image:loc>
+      <image:title>ATEŞ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/lux_playboy_28601.jpg</image:loc>
+      <image:title>ZÜPPE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_aile_reisi_97733.jpg</image:loc>
+      <image:title>REİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/terzi_kadin_89295.jpg</image:loc>
+      <image:title>TERZİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_yorgun_dedektif_32247.jpg</image:loc>
+      <image:title>KOMİSER — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/kar_kadin_57643.jpg</image:loc>
+      <image:title>KAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ceo_kadin_8839.jpg</image:loc>
+      <image:title>CEO — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/anadolu_genci_91924.jpg</image:loc>
+      <image:title>DELİKANLI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sultan_kadin_9339.jpg</image:loc>
+      <image:title>SULTAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_anadolu_genci_91924.jpg</image:loc>
+      <image:title>DELİKANLI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/isadami_gizemli_97130.jpg</image:loc>
+      <image:title>PATRON — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_gizli_ajan_5528.jpg</image:loc>
+      <image:title>AJAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_terzi_kadin_89295.jpg</image:loc>
+      <image:title>TERZİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ogretmen_kadin_97588.jpg</image:loc>
+      <image:title>ÖĞRETMEN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/aile_reisi_97364.jpg</image:loc>
+      <image:title>REİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_modern_aksiyon_kadin_55069.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_mafya_baronu_guncel_97040.jpg</image:loc>
+      <image:title>BABA — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/gizli_ajan_5528.jpg</image:loc>
+      <image:title>AJAN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/genclik_avukat_96441.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_it_girl_kadin_39548.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_39548.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_genclik_avukat_96441.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_genclik_avukat_82482.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/soygun_planicisi_41620.jpg</image:loc>
+      <image:title>USTA — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/modern_aksiyon_kadin_70799.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_romantik_komedi_kadian_44398.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_romantik_komedi_kadin_44398.jpg</image:loc>
+      <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_modern_aksiyon_kadin_70799_ust.jpg</image:loc>
+      <image:title>GÖLGE — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/intikam_dramasi_erkek_67019.jpg</image:loc>
+      <image:title>İNTİKAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_mafya_baronu_guncel_54270.jpg</image:loc>
+      <image:title>İMPARATOR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_40934.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_it_girl_kadin_40934.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_8700.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_intikam_dramasi_erkek_67019.jpg</image:loc>
+      <image:title>İNTİKAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/zengin_varis_46805.jpg</image:loc>
+      <image:title>VARİS — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_it_girl_kadin_189_reels.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/it_girl_kadin_189.jpg</image:loc>
+      <image:title>SOSYETİK — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/sokak.jpg</image:loc>
+      <image:title>AI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://dizimodaai.github.io/kartlar.html</loc>
