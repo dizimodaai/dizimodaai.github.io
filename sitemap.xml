@@ -5,6 +5,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_savci_kadin_32525.jpg</image:loc>
+      <image:title>SAVCI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/mimar_kadin_80350.jpg</image:loc>
+      <image:title>MİMAR — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://dizimodaai.github.io/k/ai_sef_kadin_287888.jpg</image:loc>
       <image:title>ŞEF — yapay zeka ile üretilmiş stil görseli</image:title>
     </image:image>
