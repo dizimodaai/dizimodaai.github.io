@@ -5,6 +5,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://dizimodaai.github.io/k/fenomen_kadin_253998.jpg</image:loc>
+      <image:title>FENOMEN — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_ressam_kadin_206176.jpg</image:loc>
+      <image:title>RESSAM — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://dizimodaai.github.io/k/romantik_komedi_kadin_340890.jpg</image:loc>
       <image:title>KIR ÇİÇEĞİ — yapay zeka ile üretilmiş stil görseli</image:title>
     </image:image>
