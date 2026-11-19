@@ -5,6 +5,14 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://dizimodaai.github.io/k/anadolu_genci_491924.jpg</image:loc>
+      <image:title>DELİKANLI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_genclik_avukat_462430.jpg</image:loc>
+      <image:title>AVUKAT — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://dizimodaai.github.io/k/yorgun_dedektif_332247.jpg</image:loc>
       <image:title>KOMİSER — yapay zeka ile üretilmiş stil görseli</image:title>
     </image:image>
