@@ -5,6 +5,18 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
+      <image:loc>https://dizimodaai.github.io/k/maestro_kadin_1013.jpg</image:loc>
+      <image:title>MAESTRO — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/barista_kadin_301209.jpg</image:loc>
+      <image:title>BARISTA — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://dizimodaai.github.io/k/ai_postaci_erkek_201127.jpg</image:loc>
+      <image:title>POSTACI — yapay zeka ile üretilmiş stil görseli</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://dizimodaai.github.io/k/gozde_kadin_467641_imzali.jpg</image:loc>
       <image:title>GÖZDE — yapay zeka ile üretilmiş stil görseli</image:title>
     </image:image>
